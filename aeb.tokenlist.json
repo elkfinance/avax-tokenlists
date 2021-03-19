@@ -35,7 +35,7 @@
             "decimals": 9,
             "name": "sled.finance",
             "symbol": "SFI",
-            "logoURI": "https://github.com/ava-labs/bridge-tokens/blob/34f42715d176e92999944a2415a577a4d55a881c/avalanche-tokens/0x1f1fe1ef06ab30a791d6357fdf0a7361b39b1537/logo.png",
+            "logoURI": "https://github.com/ava-labs/bridge-tokens/blob/34f42715d176e92999944a2415a577a4d55a881c/avalanche-tokens/0x1f1fe1ef06ab30a791d6357fdf0a7361b39b1537/logo.png"
         },
         {
             "chainId": 43114,
