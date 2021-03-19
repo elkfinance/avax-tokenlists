@@ -10,7 +10,7 @@
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -143,6 +143,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0x1f1fe1ef06ab30a791d6357fdf0a7361b39b1537",
+            "decimals": 9,
+            "name": "sled.finance",
+            "symbol": "SFI",
+            "logoURI": "https://raw.githubusercontent.com/sled-finance/media/main/sled_token_fl.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
             "decimals": 18,
             "name": "Dai Stablecoin",
@@ -150,5 +158,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
         }
     ],
-    "timestamp": "2021-03-05T17:42:00+00:00"
+    "timestamp": "2021-03-19T17:42:00+00:00"
 }
